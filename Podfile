@@ -5,6 +5,7 @@ use_frameworks!
 
 target 'Atlas Messenger' do
   pod 'Atlas', '~> 1.0.23'
+  pod 'LayerKit', '~> 0.21.1'
   pod 'SVProgressHUD'
   pod 'ClusterPrePermissions', '~> 0.1'
 end
